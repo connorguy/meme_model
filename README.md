@@ -14,7 +14,7 @@ Training was based around the FastAi library and using resnet18.
 
 ---
 
-**You can find a [pretrained model here](https://drive.google.com/file/d/1QtATt-5escGFTtMbSbWWlpcrIO6BJ6PW/view?usp=sharing).**
+**You can find a [pretrained model here](https://huggingface.co/connorguy/meme-classification/tree/main).**
 
 ---
 #### Notebook Setup
